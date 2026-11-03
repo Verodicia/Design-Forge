@@ -1,0 +1,9 @@
+# OS / editor
+.DS_Store
+.vscode/
+.obsidian/workspace*
+.obsidian/cache
+
+# Python
+__pycache__/
+*.pyc
